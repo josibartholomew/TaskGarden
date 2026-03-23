@@ -1,6 +1,4 @@
 # TaskGarden
-# TaskGarden
-
 TaskGarden is a command-line productivity and habit-tracking application designed to help users grow tasks like plants. Categories, tasks, and virtual plants work together to create a fun, garden-themed workflow.
 
 ## Features
